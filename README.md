@@ -34,8 +34,8 @@ This project is created for my **portfolio**, **self-introduction**, and **perso
 ---
 
 ## 📫 Contact Me
-- GitHub: [github.com/pezjamin](https://github.com/pezjamin)  
-- Email: tarthiput@example.com (ใส่เมลจริงของต้าได้เลย)
+- GitHub: [github.com/pixelyo55gamer](https://github.com/pixelyo55gamer)  
+- Email: pixelyo55@gmail.com
 
 ---
 ⭐️ *Thanks for visiting my repo!*
