@@ -35,7 +35,7 @@ This project is created for my **portfolio**, **self-introduction**, and **perso
 
 ## 📫 Contact Me
 - GitHub: [github.com/pixelyo55gamer](https://github.com/pixelyo55gamer)  
-- Email: pixelyo55@gmail.com
+- Email: [pixelyo55@gmail.com](mailto:pixelyo55@gmail.com)
 
 ---
 ⭐️ *Thanks for visiting my repo!*
